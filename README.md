@@ -1,8 +1,8 @@
 # Trabajo-Fin-de-Master-Sara-Braojos-Juzgado
 Here you'll find all scripts used to do the data analysis of this work. The code is an adaptation of the one you can find at:
-https://github.com/pedrodelosreyes/Thesis_Code
-https://github.com/pedrodelosreyes/starryRNA
-https://github.com/fran-romero-campero/miscellanomics
+- https://github.com/pedrodelosreyes/Thesis_Code
+- https://github.com/pedrodelosreyes/starryRNA
+- https://github.com/fran-romero-campero/miscellanomics
 
 Next, all scripts and their content are detailed:
 
